@@ -5,3 +5,7 @@
 * czasem w ogole nic sie nie dzieje
 * testowana z PII 400 i Expertcolor S3 Virge
 * do testow wlożona nowa bateria
+
+# Intel SR440BX
+* wstaje do biosu (dalej nie testowana)
+* zintegrowana Riva 128
