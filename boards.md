@@ -1,4 +1,4 @@
-# QDI Legent
+# QDI Legend
 <img src="/boards/IMG_20171015_201106.jpg" width="200"> <img src="/boards/IMG_20171015_201121.jpg" width="200">
 * Intel BX
 * czasem wstaje do pikniecia, raz udalo mi sie zobaczyc bios karty graf, ale nigdy plyty
