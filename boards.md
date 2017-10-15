@@ -4,3 +4,4 @@
 * czasem wstaje do pikniecia, raz udalo mi sie zobaczyc bios karty graf, ale nigdy plyty
 * czasem w ogole nic sie nie dzieje
 * testowana z PII 400 i Expertcolor S3 Virge
+* do testow wlożona nowa bateria
