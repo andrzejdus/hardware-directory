@@ -8,4 +8,4 @@
 
 # Intel SR440BX
 * wstaje do biosu (dalej nie testowana)
-* zintegrowana Riva 128
+* zintegrowana Riva TNT
