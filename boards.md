@@ -10,3 +10,8 @@
 * działa 100%
 * zintegrowana Riva TNT
 * w tej chwili używana w PII
+
+# Gainward 5VPA REV 1.1
+<img src="/boards/gainward-5vpa-1.jpg" width="200">
+* Socket 7
+
