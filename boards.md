@@ -1,5 +1,5 @@
 # QDI Legend
-<img src="/boards/IMG_20171015_201106.jpg" width="200"> <img src="/boards/IMG_20171015_201121.jpg" width="200">
+<img src="/boards/qdi-legend-1.jpg" width="200"> <img src="/boards/qdi-legend-2.jpg" width="200">
 * Intel BX
 * czasem wstaje do pikniecia, raz udalo mi sie zobaczyc bios karty graf, ale nigdy plyty
 * czasem w ogole nic sie nie dzieje
@@ -12,7 +12,7 @@
 * w tej chwili używana w PII
 
 # Gainward 5VPA REV 1.1
-<img src="/boards/gainward-5vpa-1.jpg" width="200"> 
+<img src="/boards/gainward-5vpa-1.jpg" width="200">
 
 * Socket 7
 * AT ATX
