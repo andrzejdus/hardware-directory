@@ -7,5 +7,6 @@
 * do testow wlożona nowa bateria
 
 # Intel SR440BX
-* wstaje do biosu (dalej nie testowana)
+* działa 100%
 * zintegrowana Riva TNT
+* w tej chwili używana w PII
