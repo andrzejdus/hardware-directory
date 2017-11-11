@@ -1,2 +1,2 @@
-# hardware-directory
-My retron hardware collection directory
+# Hardware Directory
+My retro hardware collection directory
