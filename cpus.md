@@ -28,9 +28,17 @@
 * SU071
 http://www.cpu-world.com/sspec/SU/SU071.html
 
-# Intel Pentium 160 MMX
+# Intel Pentium 166 MMX
 * SL27K
 * http://www.cpu-world.com/sspec/SL/SL27K.html
+
+# Intel Pentium 166 MMX
+* SL27H
+* http://www.cpu-world.com/sspec/SL/SL27H.html
+
+# Intel Pentium 233 MMX
+* SL27S
+* http://www.cpu-world.com/sspec/SL/SL27S.html
 
 # Am486 DX4-100
 * A80486DX4-100NV8T
