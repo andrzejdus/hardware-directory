@@ -22,7 +22,9 @@
 * **w pudełku po płycie ECS**
 
 ## Gigabyte GA-586ATV
+* stan nieznany
 * AT
+* Intel VX
 * https://www.gigabyte.com/Motherboard/GA-586ATV
 * **w pudełku Delicje**
 
@@ -36,8 +38,7 @@
 ## QDI Legend
 <img src="/boards/qdi-legend-1.jpg" width="200"> <img src="/boards/qdi-legend-2.jpg" width="200">
 * Intel BX
-* czasem wstaje do pikniecia, raz udalo mi sie zobaczyc bios karty graf, ale nigdy plyty
-* czasem w ogole nic sie nie dzieje
+* czasem wstaje do pikniecia, raz udalo mi sie zobaczyc bios karty graf, ale nigdy plyty, a czasem w ogole nic sie nie dzieje
 * testowana z PII 400 i Expertcolor S3 Virge
 * do testow wlożona nowa bateria
 * **w pudełku Delicje**
