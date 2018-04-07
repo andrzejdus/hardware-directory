@@ -18,9 +18,14 @@
 ## Gainward 5VPA REV 1.1
 <img src="/boards/gainward-5vpa-1.jpg" width="200">
 
-* Socket 7
 * AT ATX
 * **w pudełku po płycie ECS**
+
+## Gigabyte GA-586ATV
+* AT
+* https://www.gigabyte.com/Motherboard/GA-586ATV
+* **w pudełku Delicje**
+
 # Slot 1 (klasy Pentium II)
 
 ## Intel SR440BX
