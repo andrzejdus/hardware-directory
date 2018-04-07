@@ -29,7 +29,7 @@
 * chipset OPTi
 * chyba brak kostki BIOS
 * nietypowe (?) złącze na zasilacz
-* brak przelotki na sloty ISA/PCI
+* jest "riser" na sloty ISA/PCI
 * przyszła z prockiem 486 DX2
 * niesprawdzana
 * cięzko coś na jej temat wygooglać
