@@ -1,7 +1,3 @@
-## Compaq Slot 1
-* stan nieznany
-* **w pudełku Delicje**
-
 # Socket 3 (klasy 486)
 
 ## ICL Socket 3
@@ -27,6 +23,11 @@
 * **w pudełku po płycie ECS**
 # Slot 1 (klasy Pentium II)
 
+## Intel SR440BX
+* działa 100%
+* zintegrowana Riva TNT
+* **w tej chwili używana w PII**
+
 ## QDI Legend
 <img src="/boards/qdi-legend-1.jpg" width="200"> <img src="/boards/qdi-legend-2.jpg" width="200">
 * Intel BX
@@ -36,7 +37,6 @@
 * do testow wlożona nowa bateria
 * **w pudełku Delicje**
 
-## Intel SR440BX
-* działa 100%
-* zintegrowana Riva TNT
-* **w tej chwili używana w PII**
+## Compaq Slot 1
+* stan nieznany
+* **w pudełku Delicje**
