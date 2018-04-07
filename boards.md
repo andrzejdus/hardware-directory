@@ -21,3 +21,15 @@
 # Compaq Slot 1
 * stan nieznany
 * **w pudełku Delicje**
+
+# ICL Socket 3
+* integra
+** ATI Mach64
+** kontroler IDE
+* chipset OPTi
+* chyba brak kostki BIOS
+* nietypowe (?) złącze na zasilacz
+* brak przelotki na sloty ISA/PCI
+* przyszła z prockiem 486 DX2
+* niesprawdzana
+* cięzko coś na jej temat wygooglać
