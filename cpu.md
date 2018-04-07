@@ -49,10 +49,10 @@ http://www.cpu-world.com/sspec/SU/SU071.html
 * SL27H
 * http://www.cpu-world.com/sspec/SL/SL27H.html
 
-
 # Intel Pentium 200 MMX
 * SL2RY
 * http://www.cpu-world.com/sspec/SL/SL2RY.html
+* **włożony w płytę Gainward 5VPA**
 
 # Intel Pentium 233 MMX
 * SL27S
