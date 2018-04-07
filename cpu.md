@@ -49,6 +49,11 @@ http://www.cpu-world.com/sspec/SU/SU071.html
 * SL27H
 * http://www.cpu-world.com/sspec/SL/SL27H.html
 
+
+# Intel Pentium 200 MMX
+* SL2RY
+* http://www.cpu-world.com/sspec/SL/SL2RY.html
+
 # Intel Pentium 233 MMX
 * SL27S
 * http://www.cpu-world.com/sspec/SL/SL27S.html
