@@ -50,6 +50,10 @@ http://www.cpu-world.com/sspec/SU/SU071.html
 * 300AFR
 * http://www.cpu-world.com/CPUs/K6-2/AMD-K6-2e%20300%20-%20AMD-K6-2E-300AFR%20(AMD-K6-2-300AFR).html
 
+# Intel Celeron 366
+* SL36C
+* http://www.cpu-world.com/sspec/SL/SL36C.html
+
 # Intel Celeron 800
 * SL55R
 * http://www.cpu-world.com/sspec/SL/SL55R.html
