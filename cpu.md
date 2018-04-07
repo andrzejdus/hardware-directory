@@ -5,8 +5,15 @@
 # Intel 486DX-33
 * SX729
 
-# Intel 486DX2-66
+# Intel 486DX2-66 (1)
 * SX955
+* http://www.cpu-world.com/sspec/SX/SX955.html
+
+# Intel 486DX2-66 (2)
+* SX955
+* z płyty ICL
+* ślad po odklejonym radiatorze
+* http://www.cpu-world.com/sspec/SX/SX955.html
 
 # Intel 486DX4-100
 * SK051
