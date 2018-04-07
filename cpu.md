@@ -12,6 +12,12 @@
 * SK051
 * http://www.cpu-world.com/sspec/SK/SK051.html
 
+# Am486 DX4-100
+* A80486DX4-100NV8T
+
+# Am486 DX4-100
+* A80486DX4-100SV8B
+
 # Intel Pentium 100
 * SX963
 * http://www.cpu-world.com/sspec/SX/SX963.html
@@ -40,8 +46,20 @@ http://www.cpu-world.com/sspec/SU/SU071.html
 * SL27S
 * http://www.cpu-world.com/sspec/SL/SL27S.html
 
-# Am486 DX4-100
-* A80486DX4-100NV8T
+# AMD K6-2 300
+* 300AFR
+* http://www.cpu-world.com/CPUs/K6-2/AMD-K6-2e%20300%20-%20AMD-K6-2E-300AFR%20(AMD-K6-2-300AFR).html
 
-# Am486 DX4-100
-* A80486DX4-100SV8B
+# Intel Celeron 800
+* SL55R
+* http://www.cpu-world.com/sspec/SL/SL55R.html
+
+# AMD Athlon XP 1700+
+* AXDA1700DUT3C
+* http://www.cpu-world.com/CPUs/K7/AMD-Athlon%20XP%201700+%20-%20AXDA1700DUT3C.html
+
+# Intel Celeron 420
+* SL9XP
+* LGA775
+* http://www.cpu-world.com/sspec/SL/SL9XP.html
+
