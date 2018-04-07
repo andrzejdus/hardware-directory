@@ -16,3 +16,4 @@
 
 * Socket 7
 * AT ATX
+* w pudełku po płycie ECS
