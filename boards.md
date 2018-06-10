@@ -1,3 +1,10 @@
+# 386
+* Am386 DX-40
+* chipset OPTi
+* 5x ISA 16 bit, 1x ISA 8 bit 
+* wylutowana bateria
+* **włożone SIMM x4**
+
 # Socket 3 (klasy 486)
 
 ## ICL Socket 3
