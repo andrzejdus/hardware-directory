@@ -37,9 +37,12 @@
 * SK106
 * http://www.cpu-world.com/sspec/SK/SK106.html
 
-# Intel Pentium 150
+# Intel Pentium 150 (1)
 * SU071
 http://www.cpu-world.com/sspec/SU/SU071.html
+
+# Intel Pentium 150  (2)
+* **wlozony w kompa Pentium**
 
 # Intel Pentium 166 MMX
 * SL27K
