@@ -82,3 +82,9 @@ http://www.cpu-world.com/sspec/SU/SU071.html
 * LGA775
 * http://www.cpu-world.com/sspec/SL/SL9XP.html
 
+# Intel Pentium 4 2.4
+
+# Intel Pentium 4 2.8
+
+# Intel Pentium 4 2.8 HT
+* **włożony w kompa Pentium 4**
