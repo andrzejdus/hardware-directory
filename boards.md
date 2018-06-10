@@ -13,6 +13,19 @@
 * cięzko coś na jej temat wygooglać
 * **w pudełku Delicje**
 
+## Chaintech 486SLE
+* bez kontrolera
+* 1x ISA 8 bit, ISA 16 bit, 2x VLB
+* chipset SIS 85C471
+* **w pudełku 386, 486**
+
+## 486 Socket 3 bez oznaczeń
+* bez kontrolera
+* ISA 16 bit, 3x VLB
+* chipset UMC UM848F
+* SIMM 30 pin, SIMM 72 pin
+* **w pudełku 386, 486**
+
 # Socket 7 (klasy Pentium)
 
 ## Gainward 5VPA REV 1.1
