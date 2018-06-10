@@ -6,6 +6,7 @@
 * 5x ISA 16 bit, 1x ISA 8 bit 
 * wylutowana bateria
 * **włożone SIMM x4**
+* **w pudełku 386, 486**
 
 # Socket 3 (klasy 486)
 
