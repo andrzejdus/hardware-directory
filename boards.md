@@ -1,4 +1,6 @@
 # 386
+
+## 386 DX
 * Am386 DX-40
 * chipset OPTi
 * 5x ISA 16 bit, 1x ISA 8 bit 
