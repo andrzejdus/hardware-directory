@@ -27,6 +27,7 @@
 * no ide controller
 * 1x ISA 8 bit, ISA 16 bit, 2x VLB
 * chipset SIS 85C471
+* condition: CPU warm, all voltages nominal, won't "beep" and boot, removing EEPROM makes no difference
 * **stored in: 386, 486 box**
 
 ## 486 Socket 3 no labels
