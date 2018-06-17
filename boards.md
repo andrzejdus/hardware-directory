@@ -11,9 +11,7 @@
 # Socket 3 (486 class)
 
 ## ICL Socket 3
-* integra
-** ATI Mach64
-** IDE controller
+* integra ATI Mach64 and IDE controller
 * chipset OPTi
 * no BIOS
 * atypical (?) power supply connector
