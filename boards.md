@@ -24,9 +24,7 @@
 * **w pudełku Delicje**
 
 ## Chaintech 486SLE (4SLE2-G1)
-<img src="/boards/486sle/486-sle-1.jpg" width="200">
-<img src="/boards/486sle/486-sle-2.jpg" width="200">
-<img src="/boards/486sle/486-sle-3.jpg" width="200">
+<img src="/boards/486sle/486-sle-1.jpg" width="63"> <img src="/boards/486sle/486-sle-2.jpg" width="200"> <img src="/boards/486sle/486-sle-3.jpg" width="200">
 
 * no ide controller
 * 1x ISA 8 bit, ISA 16 bit, 2x VLB
