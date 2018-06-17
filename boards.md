@@ -6,7 +6,7 @@
 * 5x ISA 16 bit, 1x ISA 8 bit 
 * wylutowana bateria
 * **włożone SIMM x4**
-* **w pudełku 386, 486**
+* **386, 486 box**
 
 # Socket 3 (klasy 486)
 
@@ -23,18 +23,22 @@
 * cięzko coś na jej temat wygooglać
 * **w pudełku Delicje**
 
-## Chaintech 486SLE
-* bez kontrolera
+## Chaintech 486SLE (4SLE2-G1)
+<img src="/boards/486sle/486-sle-1.jpg" width="200">
+<img src="/boards/486sle/486-sle-2.jpg" width="200">
+<img src="/boards/486sle/486-sle-3.jpg" width="200">
+
+* no ide controller
 * 1x ISA 8 bit, ISA 16 bit, 2x VLB
 * chipset SIS 85C471
-* **w pudełku 386, 486**
+* **386, 486 box**
 
-## 486 Socket 3 bez oznaczeń
+## 486 Socket 3 no labels
 * bez kontrolera
 * ISA 16 bit, 3x VLB
 * chipset UMC UM848F
 * SIMM 30 pin, SIMM 72 pin
-* **w pudełku 386, 486**
+* **386, 486 box**
 
 # Socket 7 (klasy Pentium)
 
