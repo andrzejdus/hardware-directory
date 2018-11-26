@@ -10,3 +10,8 @@
 * GeForce 210
 * Power Supply ?
 * DVD LiteOn
+
+# #3
+* [ASUS P6X58D Premium](https://www.asus.com/Motherboards/P6X58D_Premium/)
+* Intel Core i7-950
+* Chieftec CFT-750-14CS 750W
