@@ -6,7 +6,7 @@
 
 # #2
 * [Gigabyte GA-990FXA-UD5](https://www.gigabyte.com/Motherboard/GA-990FXA-UD5-rev-30)
-* CPU
-* No Graphics
+* FX-6100
+* GeForce 210
 * Power Supply ?
 * DVD LiteOn
