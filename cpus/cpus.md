@@ -1,4 +1,4 @@
-<img src="/cpu/IMG_20180406_171911.jpg" width="200">
+<img src="images/IMG_20180406_171911.jpg" width="200">
 
 # Intel 486SX-25
 * SX798
